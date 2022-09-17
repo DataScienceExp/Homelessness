@@ -1,8 +1,10 @@
+### **THIS PROJECT IS IN ACTIVE DEVELOPMENT**
+
 # HOMELESSNESS: SECONDARY ANALYSIS OF OPENDATA #
 Data Science Experience
 
 ---
-### **THIS PROJECT IS IN ACTIVE DEVELOPMENT**
+
 #### Research Objective
 The objective of this analysis is to statistically investigate available opendata regarding the population of people who are homeless with a focus on San Diego, California, USA.
 
