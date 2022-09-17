@@ -9,5 +9,6 @@ The objective of this analysis is to statistically investigate available opendat
 ---
 
 #### Research Links
-[Father Joe's Village: Why We Don’t Use the Terms “the Homeless” or “Homeless People”
-[San Diego Regional Library](https://data.sandiegodata.org/dataset/sandiegodata-org-dowtown-homeless/)
+<a href="https://my.neighbor.org/terms-the-homeless-or-homeless-people/">Father Joe's Village: Why We Don’t Use the Terms "the Homeless" or "Homeless People"</a>
+<a href="https://data.sandiegodata.org/dataset/category/collections/homelessness/">San Diego Regional Library: Datasets on *homelessness*</a>
+<a href="https://data.sandiegodata.org/collections/homelessness/">San Diego Regional Library: Collections on *homelessness*</a>
