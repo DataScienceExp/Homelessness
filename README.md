@@ -9,5 +9,5 @@ The objective of this analysis is to statistically investigate available opendat
 ---
 
 #### Research Links
-[https://my.neighbor.org/terms-the-homeless-or-homeless-people/](TEMP)
-- <a href="https://my.neighbor.org/terms-the-homeless-or-homeless-people/">FuelEconomy.gov Web Services (includes data dictionary)</a> (updated 7 Sep 2022; downloaded 11 Sep 2022)
+[Father Joe's Village: Why We Don’t Use the Terms “the Homeless” or “Homeless People”
+[San Diego Regional Library](https://data.sandiegodata.org/dataset/sandiegodata-org-dowtown-homeless/)
